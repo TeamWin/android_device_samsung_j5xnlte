@@ -1,0 +1,26 @@
+[
+	{
+		"remote": "TeamWin",
+		"repository": "android_device_samsung_j5x-common",
+		"target_path": "device/samsung/j5x-common",
+		"revision": "android-9.0"
+	},
+	{
+		"remote": "TeamWin",
+		"repository": "android_device_samsung_msm8916-common",
+		"target_path": "device/samsung/msm8916-common",
+		"revision": "android-9.0"
+	},
+	{
+		"remote": "TeamWin",
+		"repository": "android_kernel_samsung_msm8916",
+		"target_path": "kernel/samsung/msm8916",
+		"revision": "android-9.0"
+	},
+	{
+		"remote": "TeamWin",
+		"repository": "android_vendor_qcom_opensource_commonsys",
+		"target_path": "vendor/qcom/opensource/commonsys",
+		"revision": "android-9.0"
+	}
+]
